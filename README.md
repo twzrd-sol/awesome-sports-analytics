@@ -364,6 +364,7 @@ DER (Daily Energy Requirement):
 | [xgboost](https://xgboost.readthedocs.io/) | Modelling | Gradient boosting — current state-of-the-art for tabular sports data |
 | [pandas](https://pandas.pydata.org/) | Data Wrangling | Non-negotiable for sports data pipelines |
 | [Golden Cheetah](https://www.goldencheetah.org/) | Cycling | Open-source power data analysis |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Agent Identity | Trust scoring for AI sports analytics agents — verify agent wallet identity before x402 micropayment access to premium play-by-play, biometric, or proprietary data APIs. Zero-install MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` |
 
 ---
 
